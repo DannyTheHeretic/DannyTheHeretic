@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DannyTheHeretic
+- 👀 I’m interested in Coding and Web Design
+- 🌱 I’m currently learning Python and Java
+- 📫 How to reach me You don't, I reach you...
