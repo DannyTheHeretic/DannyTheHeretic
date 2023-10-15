@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DannyTheHeretic
 - 👀 I’m interested in Coding and Web Design
-- 🌱 I’m currently learning Python and Java
+- 🐍☕ I'm pretty good with Python and Java
+- 🌱 I’m currently learning Go, JavaScript, and C++
 - 📫 How to reach me you don't, I reach you...
